@@ -49,7 +49,7 @@ def process_each_row(row, folder_path):
             output.write(dled_html)
 
 # input file
-scrap_list = 'D:/workspace/11tth_par/listing_master/article_list.csv'
+scrap_list = 'D:/workspace/11th_par/listing_master/article_list.csv'
 
 # where to save the output files
 folder_path = "D:/workspace/11th_par/article_html/"

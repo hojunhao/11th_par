@@ -31,7 +31,8 @@
 ######################
 article_html/**
 article_text/**
-article_listing/**
-article_listing_master/**
+listing/**
+listing_master/**
+
 
 
